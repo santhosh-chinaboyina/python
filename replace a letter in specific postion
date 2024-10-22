@@ -1,0 +1,10 @@
+a = str(input("name:"))
+b = str(input("letter:"))
+c = int(input("position:"))
+q = a[:c] + b[0] + a[c+1:]
+print(q)
+
+
+
+
+
