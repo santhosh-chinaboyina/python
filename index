@@ -1,0 +1,3 @@
+a = str(input("name:"))
+w = a.index(str(input("position of the letter:")))
+print(w)
